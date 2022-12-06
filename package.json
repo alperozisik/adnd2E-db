@@ -1,0 +1,23 @@
+{
+  "name": "adnd2e-db",
+  "version": "1.0.0",
+  "description": "Converting data from AD&D Core Rules Help Files into JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperozisik/adnd2E-db.git"
+  },
+  "keywords": [
+    "AD&D",
+    "2E"
+  ],
+  "author": "Alper Ozisik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alperozisik/adnd2E-db/issues"
+  },
+  "homepage": "https://github.com/alperozisik/adnd2E-db#readme"
+}
