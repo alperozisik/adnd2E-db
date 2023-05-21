@@ -7,7 +7,7 @@ import {set} from './util/globals.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const webHelpRelativePath = "../WebHelp";
+const webHelpRelativePath = "../sourceData/WebHelp";
 const webHelpPath = path.join(__dirname, webHelpRelativePath);
 set("webHelpPath", "webHelpPath");
 
